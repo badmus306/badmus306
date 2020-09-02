@@ -1,4 +1,4 @@
-<img src="badmus306/images/wave.svg" alt="Hero image">
+<img src="images/wave.svg" alt="Hero image">
 
 ### Hi there, I'm [segun Badmus ](https://github.com/badmus306) 👋
 <!--
@@ -85,6 +85,6 @@ Here's a list of things I currently keep myself busy with:
 <code><img height="30" src="https://raw.githubusercontent.com/badmus306/badmus306/master/images/atom.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/badmus306/badmus306/master/images/vim.png"></code>
 
-<img src="badmus306/images/wavefoot.svg" alt="Hero image">
+<img src="images/wavefoot.svg" alt="Hero image">
 
 
