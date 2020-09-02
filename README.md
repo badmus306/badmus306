@@ -29,7 +29,7 @@ Here's a list of things I currently keep myself busy with:
   - I absolutely adore Eevee, the best Pokemon.
   
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=badmus306&show_icons=true&theme=nord)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badmus306)
+ ![alt-text-1] ![My github stats](https://github-readme-stats.vercel.app/api?username=badmus306&show_icons=true&theme=nord) ![alt-text-2] ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badmus306)
   <br><br>
 </details>
 
