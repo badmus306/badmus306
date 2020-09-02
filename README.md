@@ -28,6 +28,7 @@ Here's a list of things I currently keep myself busy with:
 
   - :musical_note: I love listening to AfroPop when coding. ⭐️
   - :notebook: In my free time, you will find me on **[Medium]** and **[Dev.to]** reading articles.
+  - :mag: Learning Deutsch **(Currently on level A2)**
   
 
  ![My github stats](https://github-readme-stats.vercel.app/api?username=badmus306&show_icons=true&theme=nord)   :sparkles::sparkles::sparkles: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badmus306)
@@ -71,7 +72,7 @@ Here's a list of things I currently keep myself busy with:
 
 <hr>
 <p align="center">
-  <i>I don't bite.</i>
+  <i>I don't bite, Connect with me.</i>
 
   <p align="center">
     <a href="https://twitter.com/Itz_Mrsegun_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
