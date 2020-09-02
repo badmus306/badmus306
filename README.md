@@ -1,6 +1,7 @@
 <img src="images/wave.svg" alt="Hero image">
 
-## Hi there, My Name is 👨‍ [segun Badmus ](https://github.com/badmus306) 
+## Hi there, My Name is 👨‍ [Segun Badmus ] (https://github.com/badmus306)  :computer:
+🏠 I’m currently living in :de:  <br/>
 <!--
 🏠 I’m currently living at Duisburg, Germany 🇻🇳. <br/>
 👨‍💻 I’m currently working as a Full-stack Developer.<br/>
