@@ -85,4 +85,6 @@ Here's a list of things I currently keep myself busy with:
 <code><img height="30" src="https://raw.githubusercontent.com/badmus306/badmus306/master/images/atom.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/badmus306/badmus306/master/images/vim.png"></code>
 
+<img src="images/wavefoot.svg" alt="Hero image">
+
 
