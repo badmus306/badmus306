@@ -1,11 +1,12 @@
 ### Hi there, I'm [segun Badmus ](https://github.com/badmus306) 👋
-
+<!--
 🏠 I’m currently living at Duisburg, Germany 🇻🇳. <br/>
 👨‍💻 I’m currently working as a Full-stack Developer.<br/>
 🔭 I’m currently working on my pet projects.<br/>
 🌱 I’m currently learning English 🤦‍♂.<br/>
 ☕️ I’m coffeer. <br/>
 ⚡ Bla bla bla...
+-->
 
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
