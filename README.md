@@ -87,6 +87,6 @@ Here's a list of things I currently keep myself busy with:
 </p>
 
 
-<img src="images/wavefoot.svg" alt="Hero image">
+<img src="images/wavefoot.svg" alt="Hero image"> 
 
 
