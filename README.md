@@ -1,3 +1,5 @@
+<img src="images/wave.svg" alt="Hero image">
+
 ### Hi there, I'm [segun Badmus ](https://github.com/badmus306) 👋
 <!--
 🏠 I’m currently living at Duisburg, Germany 🇻🇳. <br/>
