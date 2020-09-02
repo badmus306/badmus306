@@ -16,7 +16,8 @@ I like experimenting with new technologies, building small projects, and occassi
 Here's a list of things I currently keep myself busy with:
 
 - 💻 Working as a full stack developer at **[QovaNG](https://qova.com.ng)** using some modern programming languages. 
-- ☀️ Maintaining **[Letra](https://github.com/badmus306)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
+- ☀️ Contributing to **[Open.Source](https://segunbadmus.com)**.
+- 
 - :pencil2: Writing programming articles.
 - 🛠 Getting myself into JAMStack. Trying out [11ty](https://www.11ty.dev/) and [Nuxt.js](https://nuxtjs.org/) in my spare time.
 
@@ -78,8 +79,14 @@ Here's a list of things I currently keep myself busy with:
     <a href="https://www.linkedin.com/in/segun-badmus-810438169/z/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     
 </p>
+<!--
+<p align = 'center'>
+  ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
+![visitors]
 
+ </p>
+-->
 <img src="images/wavefoot.svg" alt="Hero image"> 
 
 
