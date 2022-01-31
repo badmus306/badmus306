@@ -17,7 +17,7 @@ Here's a list of things I currently keep myself busy with:
 
 - 💻 Working as a full stack developer at **[QovaNG](https://qova.com.ng)** using some modern programming languages. 
 - ☀️ Contributing to **[Open-Source Projects](https://segunbadmus.com)**.
-- :school_satchel: MSc Imaging in Medicine (In View)
+- :school_satchel: MSc Computer Simulation (In View)
 - :pencil2: Writing programming articles.
 - 🛠 Getting myself into new projects. Trying out [Machine Learning in Medicine] and [Penetration tester] in my spare time.
 
