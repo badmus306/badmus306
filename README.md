@@ -1,6 +1,6 @@
 <img src="images/wave.svg" alt="Hero image">
 
-## Hi there, My Name is 👨‍ [Segun Badmus ]  :computer:
+## Hi there, My Name is 👨‍ [Segun Badmus]  :computer:
 🏠 I’m currently living in Germany :de:  <br/>
 <!--
 🏠 I’m currently living at Duisburg, Germany 🇻🇳. <br/>
