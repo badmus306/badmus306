@@ -8,7 +8,7 @@
 🔭 I’m currently working on my pet projects.<br/>
 🌱 I’m currently learning English 🤦‍♂.<br/>
 ☕️ I’m coffeer. <br/>
-⚡ Bla bla bla...
+⚡ Bla bla bla........
 -->
 
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
