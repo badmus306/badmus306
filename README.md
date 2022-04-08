@@ -1,7 +1,6 @@
 <img src="images/wave.svg" alt="Hero image">
 
 ## Hi there, My Name is 👨‍ [Segun Badmus]  :computer:.
-🏠 I’m currently living in Germany DE :de:  <br/>
 <!--
 👨‍💻 I’m currently working as a Full-stack Developer.<br/>
 🔭 I’m currently working on my pet projects.<br/>
